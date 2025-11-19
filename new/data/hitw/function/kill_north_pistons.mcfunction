@@ -1,0 +1,5 @@
+scoreboard players set @e[tag=piston] loop_count 0
+kill @e[tag=piston,tag=north]
+
+execute if score @p random_on matches 1 run function hitw:random_walls
+execute if score @p random_on matches 0 run function hitw:stop_new_wall

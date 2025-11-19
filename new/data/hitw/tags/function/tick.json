@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "hitw:detect_north_wall",
+      "required": false
+    },
+    {
+      "id": "hitw:tick",
+      "required": false
+    }
+  ]
+}
