@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "new:detect_north_wall",
+      "required": false
+    },
+    {
+      "id": "new:tick",
+      "required": false
+    }
+  ]
+}
