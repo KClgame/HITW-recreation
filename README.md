@@ -19,8 +19,6 @@ execute store result score @p player_random run random roll 1..9
 the "9" is the upper limit,change it to ur max wall number to avoid empty wall(which will stop the game)
 
 ongoing todo list
-elimination check
-editable ground(save the presets)
 Gradient speed
 four sides hitw game
 more walls presets
