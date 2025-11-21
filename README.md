@@ -1,6 +1,6 @@
 Hello KCl there
 
-this is the datapack for Hole In The Wall recreation
+this is the datapack for Hole In The Wall recreation(v3)
 
 You can build your own wall and platform,modify the wall speed and count how many walls you've survived!
 
