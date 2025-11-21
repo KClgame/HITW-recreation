@@ -14,6 +14,8 @@ to start the game,find the command block on the left,and click the stone button 
 
 to end the game,,find the command block on the left,and click the stone button or just type /function new:eliminate_player
 
+to reset the scoreboard,do /scoreboard objectives remove survived_walls and do /function hitw:load
+
 If u make more walls,plz name them wallsx (x started from current max wall number+1,and open random_walls.mcfunction,edit the upper limit of
 execute store result score @p player_random run random roll 1..9
 the "9" is the upper limit,change it to ur max wall number to avoid empty wall(which will stop the game)
