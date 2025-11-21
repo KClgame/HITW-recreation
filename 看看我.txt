@@ -1,0 +1,27 @@
+你好，KCl：
+这是《Hole In The Wall》（穿墙挑战）的数据包复刻版。
+你可以自定义建造墙体和平台，修改墙体移动速度，并统计你成功存活的墙体波数！
+加入游戏后，请点击青色的 "clear" 按钮、青柠色的 "load1" 按钮和红色的 "load2" 按钮。
+我已添加以下功能：
+墙体回收系统
+庆祝动画系统
+墙体创建与保存系统
+平台创建与保存系统
+墙体波数统计系统
+速度调节系统
+功能说明
+禁用庆祝动画：
+将文件 final/big_celebration.mcfunction 重命名为 big_celebration.mcfunction1，或直接打开文件自行编辑！
+修改墙体速度：
+输入指令 /scoreboard players set @s speed [数字]（速度范围：2-20）。
+启动游戏：
+找到带有橙色 "start" 标识的命令方块，点击石质按钮；或直接输入指令 /function start:start_game。
+暂停游戏：
+找到带有黄色 "pause" 标识的命令方块，点击石质按钮；或直接输入指令 /execute as @p run scoreboard players set @s random_on 0。
+结束游戏：
+在开启淘汰机制（eliminate）并且有in_game tag的状态下跳下平台；或直接输入指令 /function final:eliminate_player。
+自定义墙体扩展说明
+若你创建了更多墙体，请按以下规则命名：
+墙体模板命名格式：wallsx（x 从当前最大墙体编号 +1 开始递增）
+打开 random_walls.mcfunction 文件，找到指令 execute store result score @p player_random run random roll 1..9
+将指令中的上限值 "9" 改为你自定义的最大墙体编号（避免生成空墙体导致游戏中断）
