@@ -21,5 +21,5 @@ to end the game,just jump off with eliminate on and "in_game" tag or type /funct
 
 If u make more walls,plz name them wallsx (x started from current max wall number+1,and open random_walls.mcfunction,edit the upper limit of execute store result score @p player_random run random roll 1..9 the "9" is the upper limit,change it to ur max wall number to avoid empty wall(which will stop the game)
 
-ongoing todo list 
+ongoing todo list: 
 traps
