@@ -1,0 +1,110 @@
+# Step 2: 纯遍历 100 条 execute if（直接复制以下 100 行即可）
+execute if score @p player_random matches 1 run place template minecraft:mutwalls1 -6 11 9 none none 1
+execute if score @p player_random matches 2 run place template minecraft:mutwalls2 -6 11 9 none none 1
+execute if score @p player_random matches 3 run place template minecraft:mutwalls3 -6 11 9 none none 1
+execute if score @p player_random matches 4 run place template minecraft:mutwalls4 -6 11 9 none none 1
+execute if score @p player_random matches 5 run place template minecraft:mutwalls5 -6 11 9 none none 1
+execute if score @p player_random matches 6 run place template minecraft:mutwalls6 -6 11 9 none none 1
+execute if score @p player_random matches 7 run place template minecraft:mutwalls7 -6 11 9 none none 1
+execute if score @p player_random matches 8 run place template minecraft:mutwalls8 -6 11 9 none none 1
+execute if score @p player_random matches 9 run place template minecraft:mutwalls9 -6 11 9 none none 1
+execute if score @p player_random matches 10 run place template minecraft:mutwalls10 -6 11 9 none none 1
+execute if score @p player_random matches 11 run place template minecraft:mutwalls11 -6 11 9 none none 1
+execute if score @p player_random matches 12 run place template minecraft:mutwalls12 -6 11 9 none none 1
+execute if score @p player_random matches 13 run place template minecraft:mutwalls13 -6 11 9 none none 1
+execute if score @p player_random matches 14 run place template minecraft:mutwalls14 -6 11 9 none none 1
+execute if score @p player_random matches 15 run place template minecraft:mutwalls15 -6 11 9 none none 1
+execute if score @p player_random matches 16 run place template minecraft:mutwalls16 -6 11 9 none none 1
+execute if score @p player_random matches 17 run place template minecraft:mutwalls17 -6 11 9 none none 1
+execute if score @p player_random matches 18 run place template minecraft:mutwalls18 -6 11 9 none none 1
+execute if score @p player_random matches 19 run place template minecraft:mutwalls19 -6 11 9 none none 1
+execute if score @p player_random matches 20 run place template minecraft:mutwalls20 -6 11 9 none none 1
+execute if score @p player_random matches 21 run place template minecraft:mutwalls21 -6 11 9 none none 1
+execute if score @p player_random matches 22 run place template minecraft:mutwalls22 -6 11 9 none none 1
+execute if score @p player_random matches 23 run place template minecraft:mutwalls23 -6 11 9 none none 1
+execute if score @p player_random matches 24 run place template minecraft:mutwalls24 -6 11 9 none none 1
+execute if score @p player_random matches 25 run place template minecraft:mutwalls25 -6 11 9 none none 1
+execute if score @p player_random matches 26 run place template minecraft:mutwalls26 -6 11 9 none none 1
+execute if score @p player_random matches 27 run place template minecraft:mutwalls27 -6 11 9 none none 1
+execute if score @p player_random matches 28 run place template minecraft:mutwalls28 -6 11 9 none none 1
+execute if score @p player_random matches 29 run place template minecraft:mutwalls29 -6 11 9 none none 1
+execute if score @p player_random matches 30 run place template minecraft:mutwalls30 -6 11 9 none none 1
+execute if score @p player_random matches 31 run place template minecraft:mutwalls31 -6 11 9 none none 1
+execute if score @p player_random matches 32 run place template minecraft:mutwalls32 -6 11 9 none none 1
+execute if score @p player_random matches 33 run place template minecraft:mutwalls33 -6 11 9 none none 1
+execute if score @p player_random matches 34 run place template minecraft:mutwalls34 -6 11 9 none none 1
+execute if score @p player_random matches 35 run place template minecraft:mutwalls35 -6 11 9 none none 1
+execute if score @p player_random matches 36 run place template minecraft:mutwalls36 -6 11 9 none none 1
+execute if score @p player_random matches 37 run place template minecraft:mutwalls37 -6 11 9 none none 1
+execute if score @p player_random matches 38 run place template minecraft:mutwalls38 -6 11 9 none none 1
+execute if score @p player_random matches 39 run place template minecraft:mutwalls39 -6 11 9 none none 1
+execute if score @p player_random matches 40 run place template minecraft:mutwalls40 -6 11 9 none none 1
+execute if score @p player_random matches 41 run place template minecraft:mutwalls41 -6 11 9 none none 1
+execute if score @p player_random matches 42 run place template minecraft:mutwalls42 -6 11 9 none none 1
+execute if score @p player_random matches 43 run place template minecraft:mutwalls43 -6 11 9 none none 1
+execute if score @p player_random matches 44 run place template minecraft:mutwalls44 -6 11 9 none none 1
+execute if score @p player_random matches 45 run place template minecraft:mutwalls45 -6 11 9 none none 1
+execute if score @p player_random matches 46 run place template minecraft:mutwalls46 -6 11 9 none none 1
+execute if score @p player_random matches 47 run place template minecraft:mutwalls47 -6 11 9 none none 1
+execute if score @p player_random matches 48 run place template minecraft:mutwalls48 -6 11 9 none none 1
+execute if score @p player_random matches 49 run place template minecraft:mutwalls49 -6 11 9 none none 1
+execute if score @p player_random matches 50 run place template minecraft:mutwalls50 -6 11 9 none none 1
+execute if score @p player_random matches 51 run place template minecraft:mutwalls51 -6 11 9 none none 1
+execute if score @p player_random matches 52 run place template minecraft:mutwalls52 -6 11 9 none none 1
+execute if score @p player_random matches 53 run place template minecraft:mutwalls53 -6 11 9 none none 1
+execute if score @p player_random matches 54 run place template minecraft:mutwalls54 -6 11 9 none none 1
+execute if score @p player_random matches 55 run place template minecraft:mutwalls55 -6 11 9 none none 1
+execute if score @p player_random matches 56 run place template minecraft:mutwalls56 -6 11 9 none none 1
+execute if score @p player_random matches 57 run place template minecraft:mutwalls57 -6 11 9 none none 1
+execute if score @p player_random matches 58 run place template minecraft:mutwalls58 -6 11 9 none none 1
+execute if score @p player_random matches 59 run place template minecraft:mutwalls59 -6 11 9 none none 1
+execute if score @p player_random matches 60 run place template minecraft:mutwalls60 -6 11 9 none none 1
+execute if score @p player_random matches 61 run place template minecraft:mutwalls61 -6 11 9 none none 1
+execute if score @p player_random matches 62 run place template minecraft:mutwalls62 -6 11 9 none none 1
+execute if score @p player_random matches 63 run place template minecraft:mutwalls63 -6 11 9 none none 1
+execute if score @p player_random matches 64 run place template minecraft:mutwalls64 -6 11 9 none none 1
+execute if score @p player_random matches 65 run place template minecraft:mutwalls65 -6 11 9 none none 1
+execute if score @p player_random matches 66 run place template minecraft:mutwalls66 -6 11 9 none none 1
+execute if score @p player_random matches 67 run place template minecraft:mutwalls67 -6 11 9 none none 1
+execute if score @p player_random matches 68 run place template minecraft:mutwalls68 -6 11 9 none none 1
+execute if score @p player_random matches 69 run place template minecraft:mutwalls69 -6 11 9 none none 1
+execute if score @p player_random matches 70 run place template minecraft:mutwalls70 -6 11 9 none none 1
+execute if score @p player_random matches 71 run place template minecraft:mutwalls71 -6 11 9 none none 1
+execute if score @p player_random matches 72 run place template minecraft:mutwalls72 -6 11 9 none none 1
+execute if score @p player_random matches 73 run place template minecraft:mutwalls73 -6 11 9 none none 1
+execute if score @p player_random matches 74 run place template minecraft:mutwalls74 -6 11 9 none none 1
+execute if score @p player_random matches 75 run place template minecraft:mutwalls75 -6 11 9 none none 1
+execute if score @p player_random matches 76 run place template minecraft:mutwalls76 -6 11 9 none none 1
+execute if score @p player_random matches 77 run place template minecraft:mutwalls77 -6 11 9 none none 1
+execute if score @p player_random matches 78 run place template minecraft:mutwalls78 -6 11 9 none none 1
+execute if score @p player_random matches 79 run place template minecraft:mutwalls79 -6 11 9 none none 1
+execute if score @p player_random matches 80 run place template minecraft:mutwalls80 -6 11 9 none none 1
+execute if score @p player_random matches 81 run place template minecraft:mutwalls81 -6 11 9 none none 1
+execute if score @p player_random matches 82 run place template minecraft:mutwalls82 -6 11 9 none none 1
+execute if score @p player_random matches 83 run place template minecraft:mutwalls83 -6 11 9 none none 1
+execute if score @p player_random matches 84 run place template minecraft:mutwalls84 -6 11 9 none none 1
+execute if score @p player_random matches 85 run place template minecraft:mutwalls85 -6 11 9 none none 1
+execute if score @p player_random matches 86 run place template minecraft:mutwalls86 -6 11 9 none none 1
+execute if score @p player_random matches 87 run place template minecraft:mutwalls87 -6 11 9 none none 1
+execute if score @p player_random matches 88 run place template minecraft:mutwalls88 -6 11 9 none none 1
+execute if score @p player_random matches 89 run place template minecraft:mutwalls89 -6 11 9 none none 1
+execute if score @p player_random matches 90 run place template minecraft:mutwalls90 -6 11 9 none none 1
+execute if score @p player_random matches 91 run place template minecraft:mutwalls91 -6 11 9 none none 1
+execute if score @p player_random matches 92 run place template minecraft:mutwalls92 -6 11 9 none none 1
+execute if score @p player_random matches 93 run place template minecraft:mutwalls93 -6 11 9 none none 1
+execute if score @p player_random matches 94 run place template minecraft:mutwalls94 -6 11 9 none none 1
+execute if score @p player_random matches 95 run place template minecraft:mutwalls95 -6 11 9 none none 1
+execute if score @p player_random matches 96 run place template minecraft:mutwalls96 -6 11 9 none none 1
+execute if score @p player_random matches 97 run place template minecraft:mutwalls97 -6 11 9 none none 1
+execute if score @p player_random matches 98 run place template minecraft:mutwalls98 -6 11 9 none none 1
+execute if score @p player_random matches 99 run place template minecraft:mutwalls99 -6 11 9 none none 1
+execute if score @p player_random matches 100 run place template minecraft:mutwalls100 -6 11 9 none none 1
+
+# Step 3: 生成完墙体后，立即召唤armor_stand并启动下一面墙
+#function hitwnorth:summon_north
+#scoreboard players set @e[tag=piston] loop_count 0
+#function hitwnorth:north_button
+
+# 提示玩家生成了哪种墙
+#execute as @p run tellraw @a [{"text":"[随机墙] ","color":"light_purple","bold":true},{"selector":"@p"},{"text":" 生成了第 "},{"score":{"name":"@p","objective":"player_random"},"color":"gold","bold":true},{"text":" 种墙体！","color":"light_purple"}]
+#execute as @p at @s run playsound minecraft:entity.player.levelup master @a ~ ~ ~ 1 1.8
